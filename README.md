@@ -20,13 +20,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/DheerajKumar-M/Codepath-Project4/blob/main/Video%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ...  
-<!-- Recommended tools:
+ Recommended tools:
 [ScreenToGif](https://www.screentogif.com/) for Windows
--->
+
 
 ## Notes
 
